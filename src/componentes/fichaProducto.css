@@ -1,0 +1,17 @@
+
+.ModalFooter{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgModalProd {
+    width: 50% !important;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.ModalFichaProd strong{ 
+    display: block;
+}
